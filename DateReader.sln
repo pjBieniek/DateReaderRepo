@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateReader", "DateReader\DateReader.csproj", "{B450DD2D-814B-47EE-A932-51D8F10EF67E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateReader.Tests", "DateReader.Tests\DateReader.Tests.csproj", "{5BB4EC2D-4084-4B00-9356-BD927D3BB5F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B450DD2D-814B-47EE-A932-51D8F10EF67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B450DD2D-814B-47EE-A932-51D8F10EF67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B450DD2D-814B-47EE-A932-51D8F10EF67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B450DD2D-814B-47EE-A932-51D8F10EF67E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB4EC2D-4084-4B00-9356-BD927D3BB5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB4EC2D-4084-4B00-9356-BD927D3BB5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB4EC2D-4084-4B00-9356-BD927D3BB5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB4EC2D-4084-4B00-9356-BD927D3BB5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AA01C41-590A-4C41-80ED-633334AFFDF7}
+	EndGlobalSection
+EndGlobal
